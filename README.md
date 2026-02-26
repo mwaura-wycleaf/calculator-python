@@ -76,8 +76,8 @@ Example history entry:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/python-calculator.git
-cd python-calculator
+git clone https://github.com/your-username/calculator-python.git
+cd calculator-python
 ```
 
 ### Step 2: Run the calculator
